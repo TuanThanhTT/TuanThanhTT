@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 NGUYEN TUAN THANH  
+# 👋 NGUYEN TUAN THANH  (Lucas)
 **Full-stack Developer** (.NET Core • React.js • API • SQL)
 
 </div>
@@ -8,7 +8,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/tuanthanh1810547@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanthanh1810547@gmail.com)  
-[![Location](https://img.shields.io/badge/Hong%20Ngu,%20Dong%20Thap-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?Dong+Thap)  
 [![LinkedIn](https://img.shields.io/badge/nguyentuanthanhtt04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentuanthanhtt04)  
 [![GitHub](https://img.shields.io/badge/TuanThanhTT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanThanhTT)  
 
