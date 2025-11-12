@@ -52,8 +52,6 @@ I enjoy solving complex problems, optimizing backend APIs, and creating **respon
 ## 📂 Projects
 
 - **[Website Quản lý & Cấp phát Văn bằng](https://github.com/TuanThanhTT/ProjectName)** – Full-stack project using Spring Boot + React.js + Tailwind  
-- **[Personal API Projects](https://github.com/TuanThanhTT?tab=repositories)** – RESTful APIs with .NET Core & PostgreSQL  
-- **[Other GitHub References](https://github.com/anotherusername)** – Additional projects & experiments
 
 ---
 
