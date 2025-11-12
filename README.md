@@ -1,50 +1,64 @@
 <div align="center">
 
-# **NGUYEN TUAN THANH**  
-### **Full-stack Developer**  
+# Hi, I'm **Nguyen Tuan Thanh**
+
+**Full-stack Developer**  
 > **.NET Core • React.js • Next.js • Java Spring Boot • SQL • AI**
 
-[![Phone](https://img.shields.io/badge/%F0%9F%93%9E-0393524531-success?style=flat-square&logo=phone)](tel:+84393524531)  
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7-tuanthanh1810547@gmail.com-red?style=flat-square&logo=gmail)](mailto:tuanthanh1810547@gmail.com)  
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Hong%20Ngu%2C%20Dong%20Thap-blue?style=flat-square&logo=map)](https://maps.google.com/?q=Hong+Ngu,Dong+Thap)  
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nguyentuanthanhtt04)  
-[![GitHub](https://img.shields.io/badge/%F0%9F%90%99-GitHub-181717?style=flat-square&logo=github)](https://github.com/TuanThanhTT)  
-[![CV](https://img.shields.io/badge/%F0%9F%93%84-Download%20CV-FF6F61?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/TuanThanhTT/TuanThanhTT/raw/main/CV_NguyenTuanThanh.pdf)
+[![Phone](https://img.shields.io/badge/0393524531-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+84393524531)  
+[![Email](https://img.shields.io/badge/tuanthanh1810547@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanthanh1810547@gmail.com)  
+[![Location](https://img.shields.io/badge/Hong%20Ngu,%20Dong%20Thap-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hong+Ngu,Dong+Thap)  
+[![LinkedIn](https://img.shields.io/badge/nguyentuanthanhtt04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentuanthanhtt04)  
+[![GitHub](https://img.shields.io/badge/TuanThanhTT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanThanhTT)  
+[![CV](https://img.shields.io/badge/Download%20CV-FF6F61?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/TuanThanhTT/TuanThanhTT/raw/main/CV_NguyenTuanThanh.pdf)
 
 </div>
 
 ---
 
 ## **OBJECTIVE**  
-> *“I don’t just code — I build systems that scale, save time, and solve real problems.”*  
+> *“Code không chỉ là công việc — mà là cách tôi giải quyết vấn đề thực tế.”*  
 
-**Passionate Full-stack Developer** with **2+ years** of real-world experience delivering **SaaS platforms**, **mobile apps**, and **digital transformation solutions**.  
+Hardworking **Full-stack Developer** with **2+ years** building **SaaS platforms**, **mobile apps**, and **digital transformation systems**.  
+Delivered **Smart Gas Station SaaS**, **DTHU Connect**, and **Digital Certificate System** using **.NET Core, React.js, Java Spring Boot**.  
 Proven impact:  
-- **35% latency reduction** in SaaS API  
-- **80% faster reporting** in university system  
-- **95%+ accuracy** in AI models  
+- **35% latency reduction**  
+- **80% faster reporting**  
+- **95%+ AI accuracy**  
 
-**Seeking Full-stack / Backend roles** to architect high-performance, secure, and user-centric systems.
+Applying for **Full-stack / Backend roles** at **LizAI Vietnam** and beyond.
 
 ---
 
 ## **PROJECTS**
 
-| Project | Role | Tech Stack | Highlights |
-|--------|------|------------|-----------|
-| **Smart Gas Station SaaS Platform**<br>Jul – Nov 2025 | **Full-stack Developer**<br>Team: 5 | `Next.js` `ASP.NET Core` `PostgreSQL` `Zalo MiniApp` `JWT` | Built enterprise SaaS + Zalo MiniApp for real-time sales tracking<br>Agile/Scrum with PM & designer |
-| **DTHU Connect Mobile App**<br>Jul – Aug 2025 | **Frontend Developer**<br>Team: 4 | `React Native` `Tamagui` `ASP.NET Core` | Built course registration & notification UI<br>60 FPS on iOS/Android |
-| **Digital Certificate System**<br>Apr – May 2025 | **Full-stack Developer**<br>Solo | `React.js` `TailwindCSS` `Java Spring Boot` `PostgreSQL` `RSA` `JWT` | Secure issuance & verification<br>[Backend Code](https://github.com/TuanThanhTT/MaHoaVaCapPhatVanBangBackend) |
-| **Digital Teaching Workload System**<br>Jul 2024 – Jun 2025 | **Full-stack Developer**<br>Customer: ĐH Đồng Tháp | `ASP.NET Core MVC` `AJAX` `Bootstrap 5` `SQL Server` | **80% time saved**<br>Excellent Grade<br>[Demo Video](https://youtu.be/4gfRujCKmts) |
-| **Staff & Teaching Management**<br>Apr – Jun 2024 | **Backend Developer**<br>Team: 2 | `ASP.NET Core` `Entity Framework` `SQL Server` | DB design + core logic integration |
-| **Student Management Website**<br>Apr – May 2024 | **Backend Developer**<br>Team: 2 | `ASP.NET Core` `Bootstrap 5` `SQL Server` | Full CRUD + reporting |
-| **Bookstore Management**<br>Dec 2022 – Feb 2023 | **Full-stack Developer**<br>Solo | `Java` `Java Swing` `SQL Server` | Desktop app with full CRUD & reporting |
-| **Chess AI Game**<br>Nov 2022 – Feb 2023 | **Full-stack Developer**<br>Solo | `Python` `Pygame` `Minimax` | AI opponent with smart move prediction |
+| Project | Role | Team | Tech Stack |
+|---------|------|------|------------|
+| **Smart Gas Station SaaS Platform**<br>Jul – Nov 2025 | **FULL-STACK DEVELOPER** | 5 | `Next.js` `ASP.NET Core` `PostgreSQL` `Zalo MiniApp` `JWT` |
+| **DTHU Connect Mobile App**<br>Jul – Aug 2025 | **FRONT-END DEVELOPER** | 4 | `React Native` `Tamagui` `ASP.NET Core` `PostgreSQL` |
+| **Digital Certificate Issuance System**<br>Apr – May 2025 | **FULL-STACK DEVELOPER** | 1 | `React.js` `TailwindCSS` `Java Spring Boot` `PostgreSQL` `RSA` `JWT` |
+| **Digital Teaching Workload System**<br>Jul 2024 – Jun 2025 | **FULL-STACK DEVELOPER** | 1 | `ASP.NET Core MVC` `AJAX` `Bootstrap 5` `SQL Server` |
+| **Staff & Teaching Management**<br>Apr – Jun 2024 | **BACK-END DEVELOPER** | 2 | `ASP.NET Core` `Entity Framework` `SQL Server` |
+| **Student Management Website**<br>Apr – May 2024 | **BACK-END DEVELOPER** | 2 | `ASP.NET Core` `Bootstrap 5` `SQL Server` |
+| **Bookstore Management**<br>Dec 2022 – Feb 2023 | **FULL-STACK DEVELOPER** | 1 | `Java` `Java Swing` `SQL Server` |
+| **Chess AI**<br>Nov 2022 – Feb 2023 | **FULL-STACK DEVELOPER** | 1 | `Python` `Pygame` `Minimax` |
 
 ---
 
-## **EDUCATION**  
-**Bachelor of Computer Science – Software Engineering**  
+## **HIGHLIGHTS**
+
+- **Reduced reporting time by 80%** → **Excellent Grade** (University Research)  
+- **Zalo MiniApp integration** for real-time sales tracking  
+- **RSA + JWT** secure certificate system  
+- **Agile/Scrum** with PM & designer  
+- **Backend Repo**: [MaHoaVaCapPhatVanBangBackend](https://github.com/TuanThanhTT/MaHoaVaCapPhatVanBangBackend)  
+- **Demo Video**: [Digital Teaching System](https://youtu.be/4gfRujCKmts)
+
+---
+
+## **EDUCATION**
+
+**Computer Science – Software Engineering**  
 **Dong Thap University** • 2022 – 2026  
 GPA: 3.2/4.0 | Final Project: **Digital Transformation** (Excellent)
 
@@ -52,10 +66,30 @@ GPA: 3.2/4.0 | Final Project: **Digital Transformation** (Excellent)
 
 ## **SKILLS**
 
-### **Technical Skills**
-```text
-Frontend     │ React.js • Next.js • React Native • TailwindCSS • Tamagui • HTML5/CSS3
-Backend      │ .NET Core • Java Spring Boot • Node.js • Python (Flask, Rasa)
-Database     │ SQL Server • PostgreSQL • Entity Framework
-Tools        │ Git • Docker • Postman • Jira • Agile/Scrum • CI/CD
-Security     │ JWT • RSA Encryption • OAuth
+### **Teamwork Skills**  
+I collaborate effectively in Agile teams, delegate tasks, and support peers to meet deadlines.
+
+### **Self-learning Skills**  
+I quickly adapt to new technologies and solve complex problems independently.
+
+---
+
+## **HONORS & AWARDS**  
+**2nd Prize** – Software Innovation Competition 2024  
+*Faculty of Digital Technology and Engineering, Dong Thap University* • Jun 2024
+
+---
+
+## **INTERESTS**  
+Reading books • Listening to music • Traveling
+
+---
+
+<div align="center">
+
+**Let’s build the future — one clean line of code at a time!**
+
+[Download Full CV (PDF)](https://github.com/TuanThanhTT/TuanThanhTT/raw/main/CV_NguyenTuanThanh.pdf)  
+<sub>© 2025 – Built with love & Markdown</sub>
+
+</div>
