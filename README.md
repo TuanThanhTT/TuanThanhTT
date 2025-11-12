@@ -1,6 +1,6 @@
 <div align="center">
 
-# **NGUYEN TUAN THANH**  
+# 👋 NGUYEN TUAN THANH  
 **Full-stack Developer** (.NET Core • React.js • API • SQL)
 
 </div>
@@ -12,15 +12,27 @@
 [![Location](https://img.shields.io/badge/Hong%20Ngu,%20Dong%20Thap-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?Dong+Thap)  
 [![LinkedIn](https://img.shields.io/badge/nguyentuanthanhtt04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentuanthanhtt04)  
 [![GitHub](https://img.shields.io/badge/TuanThanhTT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanThanhTT)  
+[![Other GitHub](https://img.shields.io/badge/OtherRepos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anotherusername)  
 [![CV](https://img.shields.io/badge/Download%20CV-FF6F61?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/TuanThanhTT/TuanThanhTT/raw/main/CV_NguyenTuanThanh.pdf)
 
 </div>
 
 ---
 
-<div align="center">
+## 💼 About Me
 
-## **Technologies I Use**
+I am a passionate **Full-Stack Developer** with experience in building **robust web applications** using **.NET Core, Java Spring Boot, React.js, and modern databases**.  
+I enjoy solving complex problems, optimizing backend APIs, and creating **responsive, user-friendly interfaces**.
+
+- 🔭 Currently working on full-stack web projects and improving my skills in cloud technologies  
+- 🌱 Learning advanced **Next.js** features and **microservices architecture**  
+- ⚡ Fun fact: I love coding challenges and building small automation tools  
+
+---
+
+## 🛠 Technologies I Use
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />  
@@ -39,6 +51,14 @@
 
 ---
 
+## 📂 Projects
+
+- **[Website Quản lý & Cấp phát Văn bằng](https://github.com/TuanThanhTT/ProjectName)** – Full-stack project using Spring Boot + React.js + Tailwind  
+- **[Personal API Projects](https://github.com/TuanThanhTT?tab=repositories)** – RESTful APIs with .NET Core & PostgreSQL  
+- **[Other GitHub References](https://github.com/anotherusername)** – Additional projects & experiments
+
+---
+
 <div align="center">
-  <sub>© topcv.vn – Optimized for GitHub & ATS</sub>
+  <sub>© 2025 TuanThanh – Optimized for GitHub & ATS</sub>
 </div>
