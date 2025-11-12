@@ -7,12 +7,10 @@
 
 <div align="center">
 
-[![Phone](https://img.shields.io/badge/0393524531-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+84393524531)  
 [![Email](https://img.shields.io/badge/tuanthanh1810547@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanthanh1810547@gmail.com)  
 [![Location](https://img.shields.io/badge/Hong%20Ngu,%20Dong%20Thap-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?Dong+Thap)  
 [![LinkedIn](https://img.shields.io/badge/nguyentuanthanhtt04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentuanthanhtt04)  
 [![GitHub](https://img.shields.io/badge/TuanThanhTT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TuanThanhTT)  
-[![Other GitHub](https://img.shields.io/badge/OtherRepos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anotherusername)  
 [![CV](https://img.shields.io/badge/Download%20CV-FF6F61?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/TuanThanhTT/TuanThanhTT/raw/main/CV_NguyenTuanThanh.pdf)
 
 </div>
