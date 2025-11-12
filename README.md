@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 NGUYEN TUAN THANH  (Lucas)
+# HELLO👋, I'M NGUYEN TUAN THANH  (Lucas)
 **Full-stack Developer** (.NET Core • React.js • API • SQL)
 
 </div>
